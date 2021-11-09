@@ -9,7 +9,13 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 This my final proyect for the Platzi's Responsive web devolpment course.
-**Here is my certificate of completion** 
+
+
+**Here is my certificate of completion**
+
+
 👇👇👇
+
+
 [Certificate](https://platzi.com/p/luiggytamayo/curso/2030-course/diploma/detalle/)
 
